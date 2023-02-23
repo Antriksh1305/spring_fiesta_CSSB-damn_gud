@@ -1,0 +1,43 @@
+.main{
+    position: relative;
+    top: 200px;
+    left: 200px;
+    height: 400px;
+    width: 600px;
+}
+.rect{
+    width: 600px;
+    height: 200px;
+}
+.d1{
+    background-color: #FF914D;
+    overflow: hidden;
+}
+.d2{
+    background-color: #A2D2FA;
+}
+.semi{
+    position: relative;
+    border-radius: 50% 50% 50% 50% / 50% 50% 50% 50%;
+}
+.c1{
+    left: 200px;
+    top: 100px;
+    width: 200px;
+    height: 200px;
+    background-color: #FFDE59;
+}
+.c2{
+    left: 230px;
+    bottom: 70px;
+    width: 140px;
+    height: 140px;
+    background-color: #EF5241
+}
+.c3{
+    left: 260px;
+    bottom: 180px;
+    width: 80px;
+    height: 80px;
+    background-color: #FFDE59;
+}
